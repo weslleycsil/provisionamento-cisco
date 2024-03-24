@@ -1,0 +1,56 @@
+<Default>
+    <callManagerGroup>
+        <members>
+            <member priority="0">
+                <callManager>
+                    <ports>
+                        <ethernetPhonePort>2000</ethernetPhonePort>
+                        <mgcpPorts>
+                            <listen>2427</listen>
+                            <keepAlive>2428</keepAlive>
+                        </mgcpPorts>
+                    </ports>
+                    <processNodeName></processNodeName>
+                </callManager>
+            </member>
+        </members>
+    </callManagerGroup>
+
+    <loadInformation495 model="SIP: Cisco 6921">SIP69xx.9-2-1-0</loadInformation495>
+
+    <loadInformation307 model="SIP: Cisco IP Phone 7911">SIP11.9-2-1S</loadInformation307>
+    <loadInformation30007 model="SIP: Cisco 7912">CP7912080000SIP060111A</loadInformation30007>
+
+    <loadInformation8 model="SIP: Cisco 7940">P0S3-8-12-00</loadInformation8>
+    <loadInformation115 model="SIP: Cisco 7941">SIP41.8-5-4S</loadInformation115>
+    <loadInformation309 model="SIP: Cisco 7941G-GE">SIP41.8-5-4S</loadInformation309>
+    <loadInformation434 model="SIP: Cisco 7942">SIP42.8-5-4S</loadInformation434>
+    <loadInformation435 model="SIP: Cisco 7945">SIP45.8-5-4S</loadInformation435>
+
+    <loadInformation7 model="SIP: Cisco 7960">P0S3-8-12-00</loadInformation7>
+    <loadInformation30018 model="SIP: Cisco 7961">SIP41.9-2-1S</loadInformation30018>
+    <loadInformation308 model="SIP: Cisco 7961G-GE">SIP41.8-5-4S</loadInformation308>
+    <loadInformation404 model="SIP: Cisco 7962">SIP42.9-2-1S</loadInformation404>
+    <loadInformation436 model="SIP: Cisco 7965">SIP45.8-5-4S</loadInformation436>
+
+    <loadInformation30006  model="Cisco 7970">SCCP70.8-3-1S</loadInformation30006>
+    <loadInformation437  model="Cisco 7975">SIP75.9-3-1SR2-1S</loadInformation437>
+
+    <loadInformation683  model="Cisco 8841">sip88xx.11-7-1-17</loadInformation683>
+    <loadInformation683  model="Cisco 8841">sip88xx.14-1-1-0001-125</loadInformation683>
+    <loadInformation36217 model="Cisco 8811">sip88xx.11-7-1-17</loadInformation36217>
+    <loadInformation36216 model="Cisco 8821">sip88xx.11-7-1-17</loadInformation36216>
+    <loadInformation680 model="Cisco 8832">sip8832.12-5-1SR3-74</loadInformation680>
+    <loadInformation683 model="Cisco 8841">sip88xx.12-7-1-0001-393</loadInformation683>
+    <loadInformation684 model="Cisco 8851">sip88xx.14-1-1-0001-125</loadInformation684>
+    <loadInformation685 model="Cisco 8861">sip88xx.12-7-1-0001-393</loadInformation685>
+    
+    <authenticationURL></authenticationURL>
+    <directoryURL></directoryURL>
+    <sshUserId>admin</sshUserId>  
+    <sshPassword>cisco</sshPassword>
+    <idleURL></idleURL>
+    <informationURL></informationURL>
+    <messagesURL></messagesURL>
+    <servicesURL></servicesURL>
+</Default>
